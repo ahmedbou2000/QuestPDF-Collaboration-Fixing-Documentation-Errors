@@ -29,4 +29,4 @@ The incorrect documentation was related to column definitions for tables. The or
 
 ## Acknowledgment
 
-The QuestPDF team acknowledged and appreciated my efforts in identifying and resolving this issue. You can find the discussion and resolution in the [GitHub thread](link-to-github-discussion).
+The QuestPDF team acknowledged and appreciated my efforts in identifying and resolving this issue. You can find the discussion and resolution in the [GitHub thread](https://github.com/QuestPDF/QuestPDF/discussions/760).
